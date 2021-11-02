@@ -1,4 +1,4 @@
-# Feature-extraction-from-medical-brain-images-using-deep-neural-networks.-Applied-to-Alz.-Disease.
+# Feature extraction from medical brain images using deep neural networks. Applied to Alz. Disease.
 This is my end of degree project.
 
 Abstract:
