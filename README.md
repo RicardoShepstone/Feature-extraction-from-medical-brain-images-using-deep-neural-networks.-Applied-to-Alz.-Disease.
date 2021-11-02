@@ -31,6 +31,7 @@ techniques specialised in estimating the model’s generalizability.
 
 In this repository you will find the following files:
 
--
+-TFG-Ricardo Ignacio Shepstone Aramburu: the main project report. It consists of long detailed document explaining the principles behind the project, the methods used to obtain the results, an analysis of those results and the conclusions formulated at the end. This report is in Spanish and is the culmination of many days of work.
+
 
 
