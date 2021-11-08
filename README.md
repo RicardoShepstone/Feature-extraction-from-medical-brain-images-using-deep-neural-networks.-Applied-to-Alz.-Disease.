@@ -12,7 +12,7 @@ posed lot of questions.
 
 In this work we look to combine the great advantages of Deep Learning for 
 pattern recognition, with the priceless information granted by medical 
-images, to build a tool that facilitates one of the main neurodegenerative 
+images, to build a tool that facilitates the diagnosis of one of the main neurodegenerative 
 diseases, Alzheimer’s disease.
 
 Specifically, convolutional neural network structures will be used. These are 
