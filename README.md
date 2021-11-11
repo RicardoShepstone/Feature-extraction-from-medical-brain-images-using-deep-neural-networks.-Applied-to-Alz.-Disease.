@@ -31,7 +31,7 @@ techniques specialised in estimating the model’s generalizability.
 
 In this repository you will find the following files:
 
--TFG-Ricardo Ignacio Shepstone Aramburu: the main project report. It consists of long detailed document explaining the principles behind the project, the methods used to obtain the results, an analysis of those results and the conclusions formulated at the end. This report is in Spanish and is the culmination of many days of work.
+-TFG-Ricardo Ignacio Shepstone Aramburu: the main project report. It consists of a long detailed document explaining the principles behind the project, the methods used to obtain the results, an analysis of those results and the conclusions formulated at the end. This report is in Spanish and is the culmination of many days of work.
 
 -Python scripts: contains the main code files used for the project and the files used for each of the experiments (check the main project report for more information).
 
