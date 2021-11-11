@@ -1,5 +1,5 @@
 # Feature extraction from medical brain images using deep neural networks. Applied to Alz. Disease.
-This is my Final Year Project Dissertation.
+This is my Bachelor's Thesis.
 
 Abstract:
 
